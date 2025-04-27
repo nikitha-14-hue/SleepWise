@@ -1,0 +1,80 @@
+.header
+{
+    position: sticky;
+    background-color: #e0501b;
+    margin: 10px 0px 14px 25px;
+    width:25%;
+    height:50%;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+h1 {
+    font-size: 3rem; /* Adjusted size */
+    font-weight: bold;
+    color: #333;
+}
+
+.description {
+    color: #7c7999;
+    font-size: 1.25rem;
+    margin: 20px 0;
+}
+
+.btn-primary {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #2f8be0;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+.navbar
+{
+    justify-content: left;
+}
+.navbar-nav
+{
+    margin-left: 20px;
+}
+.bg-light py-3
+{
+    background-color: #f7f7f7;
+}
+.text-left
+{
+    font-size: 30px;
+}
+/* Custom styles for the "About" link */
+.nav-link {
+    color: #000000 ; 
+    font-size: 1.2em; 
+}
+.info {
+    max-width: 100%; /* Allows the list to expand fully */
+    width: 100%; /* Ensures the full width is utilized */
+    padding: 40px 15px; /* Adds some padding on the sides */
+    text-align: left;
+    color: #000000;
+    font-size: 20px;
+}
+
+h2
+{
+    background-color: blanchedalmond;
+    font-size: 50px;
+}
+#section-meditation
+{
+    background-color: aliceblue;
+}
+

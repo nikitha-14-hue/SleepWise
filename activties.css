@@ -1,0 +1,24 @@
+.card-img-top {
+    /* Light yellow background */
+    background-color: #ffad8a;
+    padding: 10px;
+    border-radius: 8px;
+   
+}
+.card-img-top2 {
+    /*background-color: #ffad8a; /* Light yellow background */
+    padding: 10px;
+    border-radius: 8px;
+    margin-top:-21px;
+   
+}
+h2
+{
+    font-size: 50px;
+    text-align: center;
+   
+}
+.card-title
+{
+    color:#e0501b;
+}
