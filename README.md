@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a9ffc13f-4190-4a53-8c76-e13fd8df7fd9)
+
 
 **SleepWise**
 SleepWise is a wellness-centric website focused on improving your sleep health.
